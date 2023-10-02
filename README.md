@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash0420" alt="akash0420" /></a> </p>
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **A bit of Everything**
 
 - 🤝 I’m looking for new opportunities **as a software engineer**
 
