@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **menonakash0420@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c2yC138j1mLOfJbW2nEodVawAul0lQeX/view?usp=sharing](https://drive.google.com/file/d/1c2yC138j1mLOfJbW2nEodVawAul0lQeX/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1536BiL7htsTehqnaTm1dkC0bQZFn4EVc/view?usp=sharing
 
 - ⚡ Fun fact **I Love Travelling**
 
