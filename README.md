@@ -1,5 +1,8 @@
 <h2 align="center">Hi, I'am Akash Menon<br> A passionate Computer Engineering Student from India</h2>
-🌱 I’m currently learning A bit of Everything<br>🤝 I’m looking for new opportunities as a software engineer<br>💬 Ask me about Cloud<br>📫 How to reach me menonakash0420@gmail.com<br>📄 Know about my experiences- https://drive.google.com/file/d/13ejc8UpIPVKQuC1OnyHhaUPcQeDMqjg1/view?usp=sharing <br>⚡ Fun fact I Love Travelling
+🌱 I’m currently learning A bit of Everything<br>🤝 I’m looking for new opportunities as a software engineer<br>💬 Ask me about Cloud<br>📫 How to reach me menonakash0420@gmail.com<br>📄 Know about my experiences- https://drive.google.com/file/d/13ejc8UpIPVKQuC1OnyHhaUPcQeDMqjg1/view?usp=sharing <br>⚡ Fun fact I Love Travelling <br>
+<br>
+
+[![An image of @akash0420's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akash0420)](https://holopin.io/@akash0420)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-menon-/) 
