@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'am Akash Menon<br> A passionate Computer Engineering Student from India</h2>
+<h2 align="center">Hi, I am Akash Menon<br> </h2>
 🌱 I’m currently learning A bit of Everything<br>🤝 I’m looking for new opportunities as a software engineer<br>💬 Ask me about Cloud<br>📫 How to reach me menonakash0420@gmail.com<br>📄 Know about my experiences- https://drive.google.com/file/d/1r5S-w7UyybfvVujAYwX2KqWAaP0OCu8X/view?usp=sharing <br>⚡ Fun fact I Love Travelling <br>
 <br>
 
